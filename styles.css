@@ -1,0 +1,28 @@
+*{
+	box-sizing:border-box;
+}
+header{
+	display:flex;
+	height:200px;
+	justify-content:center;
+}
+header img{
+	border:2px solid red;
+	
+}
+header h2{
+	border:2px solid red;
+}
+
+#container{
+	display:flex;
+}
+main{
+	flex:3;
+}
+aside{
+	flex:1;
+}
+main img{
+	
+}
